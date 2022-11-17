@@ -29,6 +29,10 @@ Georg Simon Ohm creo la ley de Ohm, donde postula que el potencial de voltaje (V
 
 ![](https://github.com/dennis-jaguaco/Informe2/blob/main/leydeohm.png)
 
+#### La relación entre corriente y voltaje
+
+Dentro de un circuito que contiene fuentes de voltaje, corriente y resistencias (Circuito resistivo), la relación que exixte entre la corriente y el voltaje es directamnet proporcional, por tanto cuando una de las dos aumente o disminuya, se verán afectadas proporcionalmente
+
 ####   Capítulo 3
 
 #### La relación de corriente, voltaje y resistencia
