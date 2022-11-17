@@ -21,13 +21,13 @@
 Gerog Simon Ohm en Alemania (Erlangen) el 16 de marzo de 1787 y perecio el 6 de julio de 1854, realizo distintos experimentos para descubrir que la corriente eléctrica al pasar por un alambre va a depender por la diferencia de su potencia (voltaje), la cual se determina en sus extremos, formulando la actual ley de Ohm.
 
 
-![](https://github.com/dennis-jaguaco/Informe1/blob/main/Gerog Simon Ohm.jpeg)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/GerogSimonOhm.jpeg)
 
 #### Ley de Ohm
 
 Georg Simon Ohm creo la ley de Ohm, donde postula que el potencial de voltaje (V) de un conductor es la diferencia que se aprecia en sus extremos es directamente proporcional la corriente o intensidad de corriente (I) de ese conductor, además Ohm aumento a la ley la resistencia el cual es el factor inversamente proporcional a la corriente que fluye por el conductor.
 
-![](https://github.com/dennis-jaguaco/Informe1/blob/main/ley de ohm.png)
+![](https://github.com/dennis-jaguaco/Informe1/blob/main/leydeohm.png)
 
 ####   Capítulo 3
 
