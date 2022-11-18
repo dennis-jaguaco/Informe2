@@ -104,11 +104,12 @@ La potencia es la relación existente entre el flujo de energía por alguna unid
 Solución: El circuito c tiene más corriente porque tiene 0.021 A, el que tiene menos corriente es el circuito a con 0.015 A.
 
 
-
-
-
-
-
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+ * Primero se debe hallar la resistencia, por eso usaremos la fórmula de la ley de Ohm. 
+ 
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio12.png)
+   
+Solución: Ahora la fuente deberá ser de 30 Volts
 
 
 
