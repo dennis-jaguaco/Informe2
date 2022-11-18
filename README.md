@@ -45,16 +45,52 @@ La potencia es la relación existente entre el flujo de energía por alguna unid
 
 ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Capítulo3.png)
 
-
-####   Capítulo 2
-
-![](https://github.com/dennis-jaguaco/Informe1/blob/main/Capítulo2.png)
-
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-#### 1-2 Notación Científica
+#### 3-1 Notación Científica
 
-1. Exprese cada uno de los números siguientes en notación científica:
+2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos:
+
+   Solución: Para este caso como se conoce los valores de V y R, se usa la fórmula de la ley de Ohm, que es la siguiente:
+   
+   * I= V/R
+   * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la corriente I.
+
+4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+
+6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+
+* En general tendran la misma resistencia, entonces hallamos dicha resistencia:
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6.png)
+
+* Esa resistencia de 200 Ohm se usara en el circuito, solo va a variar voltajes y corrientes.
+
+    a. V = 1.5 V
+    
+    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6a.png)
+    
+    b. V = 2 V
+    
+    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6b.png)
+    
+    c. V = 3 V
+    
+    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6c.png)
+    
+    d. V = 4 V
+    
+    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6d.png)
+    
+    e. V = 10 V
+    
+    ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6e.png)
+    
+
+   Solución: Para este caso, se conoce V e I, entonces igual se usa la fórmula de la ley de Ohm, que es la siguiente:
+   
+   * R= V/I
+   * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la resistencia R.
    
 a) 3000
 
