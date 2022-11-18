@@ -192,7 +192,7 @@ Solución: Ahora la fuente deberá ser de 30 Volts
 
 ### 4. VIDEO
 
-https://youtu.be/8Gjc8Alc1CY
+https://youtu.be/vLQGwh3pqZM
 
 ### 5. CONCLUSIONES
 
@@ -201,5 +201,6 @@ https://youtu.be/8Gjc8Alc1CY
 * En en cada problema se detallo el procedimiento con su respectiva solución y explicación, siendo una manera mas sencilla y eficaz de comnprender que se empleo en cada literal establecido, por tanto se concluye que el capítulo 3 y 4 fueron analizados correctamente, de esa manera se llevo una adecuada elaboración del informe.
 
 ### 6. BIBLIOGRAFÍA
+
 Boylestad, R. (2004). Introducción al análisis de circuitos (Décima ed.). México: Pearson Educacion.
 Floyd, T. (2007). Principios de Circuitos Eléctricos (Octava ed.). México: Pearson Educación.
