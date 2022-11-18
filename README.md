@@ -33,17 +33,17 @@ Georg Simon Ohm creo la ley de Ohm, donde postula que el potencial de voltaje (V
 
 Dentro de un circuito que contiene fuentes de voltaje, corriente y resistencias (Circuito resistivo), la relación que exixte entre la corriente y el voltaje es directamnet proporcional, por tanto cuando una de las dos aumente o disminuya, se verán afectadas proporcionalmente
 
-####   Capítulo 3
+#### La relación entre corriente y resistencia
 
-#### La relación de corriente, voltaje y resistencia
+Dentro de un circuito resistivo, la corriente y resistencias tienen una relación que son inversamente proporcional por tanto cuando uno aumente, ya sea la corriente o la resistencia el otro va a disminuir.
 
-#### Cálculo de la corriente
+#### Energía y Potencia
 
-#### Cálculo del voltaje
+Se conoce a la energía como el trabajo que ejerce para convertir esta en luz, calor o alguna otra energía, en el caso de un resistor esta se covierte en calor, entonces se define a la energía como la materia que realizará un trabajo.
 
-#### Cálculo de la resistencia
+La potencia es la relación existente entre el flujo de energía por alguna unidad de tiempo, es decir, la cantidad que se va a suministrar de energía o su vez es absorbida por un componente en un tiempo determinado. La potencia esta denominada por la letra P con su unidad de medida comunmente establecida en el sistema internacional el Watt (W).
 
-#### La relación de corriente, voltaje y resistencia
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Capítulo3.png)
 
 
 ####   Capítulo 2
