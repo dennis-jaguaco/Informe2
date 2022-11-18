@@ -58,6 +58,11 @@ La potencia es la relación existente entre el flujo de energía por alguna unid
 
 4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
+ Solución: Para este caso, se conoce V e I, entonces igual se usa la fórmula de la ley de Ohm, que es la siguiente:
+   
+   * R= V/I
+   * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la resistencia R.
+
 6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 
 * En general tendran la misma resistencia, entonces hallamos dicha resistencia:
@@ -85,26 +90,9 @@ La potencia es la relación existente entre el flujo de energía por alguna unid
     e. V = 10 V
     
     ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6e.png)
-    
 
-   Solución: Para este caso, se conoce V e I, entonces igual se usa la fórmula de la ley de Ohm, que es la siguiente:
-   
-   * R= V/I
-   * En tal caso solo sería de reemplazar valores y ya se tendría el valor de la resistencia R.
-   
-a) 3000
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
-   Solución: Se recorre el punto decimal 3 lugares hacia la izquierda con un potencia positiva de 10, por tanto queda como resultado 3x10^3
-
-b) 75 000
-
-   Solución: Se recorre el punto decimal 4 lugares hacia la izquierda con una potencia positiva de 10, dando como resultado 7,5x10^4
-
-c) 2 000 000
-
-   Solución: Se recorre el punto decimal 6 lugares hacia la izquierda con una potencia positiva de 10, dando como resultado de esto 2x10^6
-
-2. Exprese cada número fraccionario en notación científica:
 
 a) 1/500
 
