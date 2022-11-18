@@ -143,6 +143,53 @@ Solución: Ahora la fuente deberá ser de 30 Volts
 * Se emplea la ley de Ohm
 ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio26abc.png)
 
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio28.png)
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+* Se aplica la fórmula de ley de Ohm
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio30.png)
+
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio32.png)
+
+* Se debe poner el amperíemtro en serie en el circuito para que de esa forma tengamos el valor de la corriente, de esa forma usemos la fórmula de Ohm R=V/I.
+
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio34.png)
+
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
+* El foco fundido es el que se encuentra señalado en el circuito, es decir el paso 4.
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio36.png)
+
+#### 4-1 Energía y Potencia
+
+2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
+
+* P= energía/tiempo 
+* P= 3.6x10^6J/1H
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+* 5h=18000s
+* P= energía/tiempo =7500J/18000s = 0.417 W
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-6.png)
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-8.png)
+
+10. Convierta las siguientes cantidades en watts:
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio4-10.png)
+
 ### 4. VIDEO
 
 https://youtu.be/8Gjc8Alc1CY
