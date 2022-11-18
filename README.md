@@ -92,6 +92,28 @@ La potencia es la relación existente entre el flujo de energía por alguna unid
     ![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio6e.png)
 
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+ 
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio8.png)
+
+10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio10.png)
+
+![](https://github.com/dennis-jaguaco/Informe2/blob/main/Ejercicio10abc.png)
+
+Solución: El circuito c tiene más corriente porque tiene 0.021 A, el que tiene menos corriente es el circuito a con 0.015 A.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 a) 1/500
